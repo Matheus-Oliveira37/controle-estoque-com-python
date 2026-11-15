@@ -1,8 +1,8 @@
-📦 *Sistema de Controle de Estoque*
+# 📦 *Sistema de Controle de Estoque*
 
-Projeto desenvolvido com Python, MySQL e Rich.
+## Projeto desenvolvido com Python, MySQL e Rich.
 
-Funcionalidades:
+### Funcionalidades:
 - Cadastro de produtos
 - Busca de produtos
 - Atualização de estoque
@@ -10,17 +10,17 @@ Funcionalidades:
 - Relatório de valor total
 - Exportação para CSV
 
-Tecnologias:
+### Tecnologias:
 - Python
 - MySQL
 - Rich
 - mysql-connector-python
 
-Como executar:
+### Como executar:
 1. Clone o repositório
 2. Instale as dependências (pip install -r requirements.txt)
 
-Preview:
+### Preview:
 
 
 <img width="293" height="298" alt="image" src="https://github.com/user-attachments/assets/01dc2d77-da38-487e-9b39-d2617ab97f6b" />
